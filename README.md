@@ -5,3 +5,4 @@ Here's another test.
 Tuesday update.
 Wednesday update.
 Thursday update.
+Friday update.
