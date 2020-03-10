@@ -6,3 +6,5 @@ Tuesday update.
 Wednesday update.
 Thursday update.
 Friday update.
+Monday update.
+
